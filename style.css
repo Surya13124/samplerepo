@@ -1,9 +1,13 @@
 *{
     background-color: rgb(229, 157, 255);
 }
+#st{
+
+    margin-top: 200px;
+}
 h1{
     width: 250px;
-    margin: 250px auto;
+    margin: 10px auto;
     text-align: center;
     text-transform: capitalize;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
